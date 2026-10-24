@@ -1,0 +1,40 @@
+{
+  "appVersion": "7.0.6",
+  "ruVersion": "RU13-R3.2",
+  "buildNumber": 130302,
+  "versionTag": "v7.0.6-RU13-R3.2",
+  "displayVersion": "7.0.6 (RU13 R3.2)",
+  "publishedAt": "2026-10-24",
+  "releasePageUrl": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/tag/v7.0.6-RU13-R3.2",
+  "notes": [
+    "Полная русская локализация интерфейса Vivo Office Kit 7.0.6 (RU13 R3.2) и экрана трансляции vivoControl.",
+    "Встроена автоматическая проверка и загрузка обновлений русского перевода через GitHub (выбор между единым установщиком Setup.exe и Portable.zip прямо из программы).",
+    "Исправлена потеря resources/app.asar при установке/обновлении (объединены папки recovery и payload, добавлена защита транзакции замены и автовосстановление app.asar).",
+    "Автоматическая остановка фоновых служб vivo_remote_watch / vivoControl перед установкой и обновлением.",
+    "Отключена тихая китайская автоподмена HotUpgradeManager, сбрасывавшая русский перевод.",
+    "Ускорена русская расшифровка и структурирование записей диктофона через Gemini (Gemini 2.5/2.0 Flash + кэширование рабочей модели)."
+  ],
+  "packages": {
+    "setup": {
+      "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
+      "title": "Единый установщик (Setup.exe)",
+      "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
+      "size": 749705398,
+      "sha256": "5e8269082c8068dfbe2ec2680fa12b8e8df3fe0a816b546e7588e994f21b736d"
+    },
+    "portable": {
+      "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
+      "title": "Portable-версия (Portable.zip)",
+      "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
+      "size": 820131785,
+      "sha256": "93df53ffe41a9e3e6c0f67fe95173a3bac6241bc03caf993e476904afed228fb"
+    },
+    "russifier": {
+      "name": "VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
+      "title": "Русификатор All-in-One (7z)",
+      "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
+      "size": 156820625,
+      "sha256": "182682c520bb9d9096e882f81d051091c1e170a006e34b3ed1081029c6e755f2"
+    }
+  }
+}
