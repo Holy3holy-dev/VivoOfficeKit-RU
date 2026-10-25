@@ -1,6 +1,6 @@
-5e8269082c8068dfbe2ec2680fa12b8e8df3fe0a816b546e7588e994f21b736d  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
-93df53ffe41a9e3e6c0f67fe95173a3bac6241bc03caf993e476904afed228fb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
-182682c520bb9d9096e882f81d051091c1e170a006e34b3ed1081029c6e755f2  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
-5e8269082c8068dfbe2ec2680fa12b8e8df3fe0a816b546e7588e994f21b736d  VivoOfficeKit-7.0.6-RU13-R3.2-Setup-TEST.exe
-93df53ffe41a9e3e6c0f67fe95173a3bac6241bc03caf993e476904afed228fb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable-TEST.zip
-b39d6210aec5a265b5b24b59e69e85ce0103418a5b2430957487fdc4303d67f6  VivoOfficeKit-7.0.6-RU13-R3.2-Russifier-TEST.zip
+c50f03ecdd53ab336a22c17f4d6e707ac21c9b4ca5c664b9237fc383ae2873ec  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
+eeadcf78f9788d133dfe10df830ffe34a38345917a905a472d628e7c16f8e8bb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
+241c9c94d1fa6c82098621f0ae74d310c748e7c1b21b4d6a17001b9dfb56025c  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
+c50f03ecdd53ab336a22c17f4d6e707ac21c9b4ca5c664b9237fc383ae2873ec  VivoOfficeKit-7.0.6-RU13-R3.2-Setup-TEST.exe
+eeadcf78f9788d133dfe10df830ffe34a38345917a905a472d628e7c16f8e8bb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable-TEST.zip
+030aba86c5a1b4b664136b952d84bfb3c91f96fc39e17bb8cc2d4d22b1cc1397  VivoOfficeKit-7.0.6-RU13-R3.2-Russifier-TEST.zip
