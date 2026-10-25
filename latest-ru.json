@@ -12,6 +12,7 @@
     "Исправлена потеря resources/app.asar при установке/обновлении (объединены папки recovery и payload, добавлена защита транзакции замены и автовосстановление app.asar).",
     "Автоматическая остановка фоновых служб vivo_remote_watch / vivoControl перед установкой и обновлением.",
     "Отключена тихая китайская автоподмена HotUpgradeManager, сбрасывавшая русский перевод.",
+    "Исправлена ошибка запуска и загрузки модуля sqlite3 при клике по всплывающему уведомлению с телефона на ПК (pc_toast.exe / Центр уведомлений Windows).",
     "Ускорена русская расшифровка и структурирование записей диктофона через Gemini (Gemini 2.5/2.0 Flash + кэширование рабочей модели)."
   ],
   "packages": {
@@ -19,22 +20,22 @@
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
       "title": "Единый установщик (Setup.exe)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
-      "size": 749705398,
-      "sha256": "5e8269082c8068dfbe2ec2680fa12b8e8df3fe0a816b546e7588e994f21b736d"
+      "size": 749705229,
+      "sha256": "c50f03ecdd53ab336a22c17f4d6e707ac21c9b4ca5c664b9237fc383ae2873ec"
     },
     "portable": {
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
       "title": "Portable-версия (Portable.zip)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
-      "size": 820131785,
-      "sha256": "93df53ffe41a9e3e6c0f67fe95173a3bac6241bc03caf993e476904afed228fb"
+      "size": 815857009,
+      "sha256": "eeadcf78f9788d133dfe10df830ffe34a38345917a905a472d628e7c16f8e8bb"
     },
     "russifier": {
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
       "title": "Русификатор All-in-One (7z)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
-      "size": 156820625,
-      "sha256": "182682c520bb9d9096e882f81d051091c1e170a006e34b3ed1081029c6e755f2"
+      "size": 156982675,
+      "sha256": "241c9c94d1fa6c82098621f0ae74d310c748e7c1b21b4d6a17001b9dfb56025c"
     }
   }
 }
