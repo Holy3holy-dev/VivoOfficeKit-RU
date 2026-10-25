@@ -1,10 +1,10 @@
 {
   "appVersion": "7.0.6",
   "ruVersion": "RU13-R3.2",
-  "buildNumber": 130302,
+  "buildNumber": 130303,
   "versionTag": "v7.0.6-RU13-R3.2",
   "displayVersion": "7.0.6 (RU13 R3.2)",
-  "publishedAt": "2026-10-24",
+  "publishedAt": "2026-10-25",
   "releasePageUrl": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/tag/v7.0.6-RU13-R3.2",
   "notes": [
     "Полная русская локализация интерфейса Vivo Office Kit 7.0.6 (RU13 R3.2) и экрана трансляции vivoControl.",
@@ -20,22 +20,22 @@
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
       "title": "Единый установщик (Setup.exe)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe",
-      "size": 749705229,
-      "sha256": "c50f03ecdd53ab336a22c17f4d6e707ac21c9b4ca5c664b9237fc383ae2873ec"
+      "size": 749705245,
+      "sha256": "80528c6582f050797585622c676054f4c820430f7b1698e7fd43b5f3a0d43edb"
     },
     "portable": {
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
       "title": "Portable-версия (Portable.zip)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip",
-      "size": 815857009,
-      "sha256": "eeadcf78f9788d133dfe10df830ffe34a38345917a905a472d628e7c16f8e8bb"
+      "size": 815856840,
+      "sha256": "0d8c00ad12777b2c6b28b755da84ba9f86c4ad316b82835f98cc90a311f627a1"
     },
     "russifier": {
       "name": "VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
       "title": "Русификатор All-in-One (7z)",
       "url": "https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z",
-      "size": 156982675,
-      "sha256": "241c9c94d1fa6c82098621f0ae74d310c748e7c1b21b4d6a17001b9dfb56025c"
+      "size": 156878876,
+      "sha256": "3e0e524e815b4839cd3d6dd225c6e62d9c9bb723ebc1e441e8bcd4c76db4b041"
     }
   }
 }
