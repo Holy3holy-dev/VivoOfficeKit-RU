@@ -34,7 +34,7 @@
 ## 🔐 Контрольные суммы SHA-256
 
 ```text
-80528c6582f050797585622c676054f4c820430f7b1698e7fd43b5f3a0d43edb  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
-0d8c00ad12777b2c6b28b755da84ba9f86c4ad316b82835f98cc90a311f627a1  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
-3e0e524e815b4839cd3d6dd225c6e62d9c9bb723ebc1e441e8bcd4c76db4b041  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
+c67c7646cd0f67f0d4220c0fe1df9429df4069a122269e35d677726f41b335a0  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
+e6c577dc4d644804d1560ff41951ef2a26af025f50bcd90c9f31ed41ad802fed  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
+21b19e427b0677b9a240630ec34245cecc697253e615d39bc00aa3f1b5037ee0  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
 ```
