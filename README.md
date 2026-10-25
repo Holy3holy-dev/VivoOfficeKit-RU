@@ -7,8 +7,8 @@
 | Вариант | Описание | Ссылка на скачивание | Размер |
 | :--- | :--- | :--- | :--- |
 | **1. Единый установщик (`Setup.exe`)** | Полная программа с русским переводом и стандартным мастером установки. Китайскую версию заранее ставить не нужно. | [**Скачать Setup.exe**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe) | 715.0 МБ |
-| **2. Portable-версия (`Portable.zip`)** | Портативная сборка. Распакуйте архив в любую папку и запустите `pcsuite.exe`. | [**Скачать Portable.zip**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip) | 782.1 МБ |
-| **3. Русификатор (`All-in-One.7z`)** | Для уже установленной китайской версии 7.0.6. Содержит автоматический установщик `Установить-перевод.exe` и единую папку `payload`. | [**Скачать All-in-One.7z**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z) | 149.6 МБ |
+| **2. Portable-версия (`Portable.zip`)** | Портативная сборка. Распакуйте архив в любую папку и запустите `pcsuite.exe`. | [**Скачать Portable.zip**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip) | 778.1 МБ |
+| **3. Русификатор (`All-in-One.7z`)** | Для уже установленной китайской версии 7.0.6. Содержит автоматический установщик `Установить-перевод.exe` и единую папку `payload`. | [**Скачать All-in-One.7z**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases/download/v7.0.6-RU13-R3.2/VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z) | 149.7 МБ |
 
 🔗 [**Страница всех релизов на GitHub**](https://github.com/Holy3holy-dev/VivoOfficeKit-RU/releases)
 
@@ -34,7 +34,7 @@
 ## 🔐 Контрольные суммы SHA-256
 
 ```text
-5e8269082c8068dfbe2ec2680fa12b8e8df3fe0a816b546e7588e994f21b736d  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
-93df53ffe41a9e3e6c0f67fe95173a3bac6241bc03caf993e476904afed228fb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
-182682c520bb9d9096e882f81d051091c1e170a006e34b3ed1081029c6e755f2  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
+c50f03ecdd53ab336a22c17f4d6e707ac21c9b4ca5c664b9237fc383ae2873ec  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
+eeadcf78f9788d133dfe10df830ffe34a38345917a905a472d628e7c16f8e8bb  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
+241c9c94d1fa6c82098621f0ae74d310c748e7c1b21b4d6a17001b9dfb56025c  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
 ```
