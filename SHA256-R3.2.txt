@@ -1,6 +1,7 @@
-658c7daf59a1009fcfa7cab1762ffa90e7b8e67be2ec75ab226e961738043ac9  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
-c40bfefe2d075b64c8c3e720f740efa817152d7298abfdf3546949f5267abd0c  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
-d7993c7cb63c6ad7880b6ea02c6fe35063ded85dfa70acf8010d8b88ac3b06de  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
-658c7daf59a1009fcfa7cab1762ffa90e7b8e67be2ec75ab226e961738043ac9  VivoOfficeKit-7.0.6-RU13-R3.2-Setup-TEST.exe
-c40bfefe2d075b64c8c3e720f740efa817152d7298abfdf3546949f5267abd0c  VivoOfficeKit-7.0.6-RU13-R3.2-Portable-TEST.zip
-4efc36113548465afafc194b1f36ac2618ffec25ccf37a90552793e4f643f791  VivoOfficeKit-7.0.6-RU13-R3.2-Russifier-TEST.zip
+6e580f83202e4bdb84d1d64f00b6ecc6b79f7dad1af030b65e6308afd5c61aef  VivoOfficeKit-7.0.6-RU13-R3.2-Setup.exe
+cddd84004fd4af36a68f52abdd3242d954a5f8ffa55cbaf4f19ae3bfc40d4221  VivoOfficeKit-7.0.6-RU13-R3.2-Portable.zip
+5711cdfdbe8ac9cce9bdb8b00b227cd12846735c36cb590ddf7e95af95f70183  VivoOfficeKit-7.0.6-RU13-R3.2-All-in-One.7z
+0518bd76d49a192b68e09c3ecad9b8fa94e06b88b3687c034a974defe54ef337  Удалить-Portable.exe
+6e580f83202e4bdb84d1d64f00b6ecc6b79f7dad1af030b65e6308afd5c61aef  VivoOfficeKit-7.0.6-RU13-R3.2-Setup-TEST.exe
+cddd84004fd4af36a68f52abdd3242d954a5f8ffa55cbaf4f19ae3bfc40d4221  VivoOfficeKit-7.0.6-RU13-R3.2-Portable-TEST.zip
+56801e2b99e837924da93364687977eeaf4ae0b78755a5a08576b4056903f7c9  VivoOfficeKit-7.0.6-RU13-R3.2-Russifier-TEST.zip
